@@ -1,0 +1,88 @@
+Index: Agregator.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Agregator.iml	(date 1419521051000)
++++ Agregator.iml	(revision )
+@@ -1,0 +1,0 @@
+Index: src/main/java/com/springapp/mvc/HelloController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/springapp/mvc/HelloController.java	(date 1419521087000)
++++ src/main/java/com/springapp/mvc/HelloController.java	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1419521051000)
++++ .idea/modules.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1419521051000)
++++ .idea/misc.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: src/main/webapp/WEB-INF/web.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/webapp/WEB-INF/web.xml	(date 1419521051000)
++++ src/main/webapp/WEB-INF/web.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: src/main/webapp/WEB-INF/pages/hello.jsp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/webapp/WEB-INF/pages/hello.jsp	(date 1419521051000)
++++ src/main/webapp/WEB-INF/pages/hello.jsp	(revision )
+@@ -1,0 +1,0 @@
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- pom.xml	(date 1419521051000)
++++ pom.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/runConfigurations/AppTests.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/runConfigurations/AppTests.xml	(date 1419521051000)
++++ .idea/runConfigurations/AppTests.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: .idea/project-template.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/project-template.xml	(date 1419521051000)
++++ .idea/project-template.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml	(date 1419521051000)
++++ src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml	(revision )
+@@ -1,0 +1,0 @@
+Index: src/test/java/com/springapp/mvc/AppTests.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/java/com/springapp/mvc/AppTests.java	(date 1419521051000)
++++ src/test/java/com/springapp/mvc/AppTests.java	(revision )
+@@ -1,0 +1,0 @@
